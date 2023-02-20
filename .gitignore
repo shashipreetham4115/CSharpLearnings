@@ -1,0 +1,17 @@
+
+
+
+
+.git/
+.vs/
+.vscode/
+.DS_Store
+
+MovieTicketBookingSystem/bin/
+MovieTicketBookingSystem/obj/
+MovieTicketBookingSystem/.vscode/
+MovieTicketBookingSystem/.DS_Store
+/MovieTicketBookingSystem/Practice/Practice.cs
+
+HandCricketGame/bin/
+HandCricketGame/obj/
